@@ -7,11 +7,9 @@ b = 2
 c = 3
 
 # Calculate the discriminant
-
 d  = (b**2) - (4*a*c)
 
 #Find two solutions
-
 sol1 = (-b-cmath.sqrt(d))/(2*a)
 sol2 = (-b-cmath.sqrt(d))/(2*a)
 
